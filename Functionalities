@@ -1,0 +1,11 @@
+preprocessing.js: Handles Sentinel-1 loading, filtering, speckle filtering
+
+flood_detection.js: Difference image, thresholding, water masking
+
+population_analysis.js: Exposed population computation
+
+crop_analysis.js: Agricultural land flood impact
+
+urban_analysis.js: Affected built-up area
+
+export_utils.js: Handles exporting imagery and vectors
