@@ -1,0 +1,19 @@
+flood-mapping/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── code/
+│   ├── main_script.js
+│   ├── utils/
+│   │   ├── preprocessing.js
+│   │   ├── flood_detection.js
+│   │   ├── population_analysis.js
+│   │   ├── crop_analysis.js
+│   │   └── urban_analysis.js
+├── data/
+│   └── sample_geometry.json
+├── results/
+│   └── exports/ (for downloaded results if needed)
+├── docs/
+│   └── method_description.md
