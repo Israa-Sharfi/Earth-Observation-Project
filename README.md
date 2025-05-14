@@ -1,5 +1,5 @@
 # Earth-Observation-Project
-# Flood Mapping & Impact Assessment (GEE)
+# Flood Mapping & Impact Assessment (GEE) Emilia-Romagna,Italy
 
 This Earth Engine script detects flood extents using Sentinel-1 SAR data and assesses impacts on population, croplands, and urban areas. It includes rainfall trend analysis and visual outputs.
 
